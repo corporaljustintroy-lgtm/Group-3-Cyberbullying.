@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Stop Cyberbullying</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #121212;
+      color: #f5f5dc;
+    }
+
+    header {
+      background-color: #8b0000;
+      padding: 20px;
+      text-align: center;
+    }
+
+    header h3 {
+      margin-top: 10px;
+      font-weight: normal;
+    }
+
+    .members {
+      margin-top: 10px;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    nav {
+      background-color: #000;
+      display: flex;
+      justify-content: center;
+      padding: 10px;
+    }
+
+    nav a {
+      color: #f5f5dc;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+
+    nav a:hover {
+      color: #ff4d4d;
+    }
+
+    section {
+      padding: 30px;
+    }
+
+    h2 {
+      color: #ff4d4d;
+    }
+
+    .card {
+      background-color: #1f1f1f;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-left: 5px solid #8b0000;
+      border-radius: 8px;
+    }
+
+    .why-box {
+      background-color: #2a2a2a;
+      padding: 15px;
+      margin-bottom: 15px;
+      border-radius: 8px;
+    }
+
+    footer {
+      background-color: #8b0000;
+      text-align: center;
+      padding: 10px;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <h1>Stop Cyberbullying</h1>
+  <p>Speak Up • Stay Safe • Support Others</p>
+  <h3>Group 3</h3>
+
+  <div class="members">
+    Corporal<br>
+    Pondemira<br>
+    Cariño<br>
+    Dimaiwat<br>
+    Sagmaquen<br>
+    Lubao<br>
+    Daleno
+  </div>
+</header>
+
+<nav>
+  <a href="#home">Home</a>
+  <a href="#tips">Tips</a>
+  <a href="#whys">5 Whys</a>
+  <a href="#importance">Importance</a>
+</nav>
+
+<section id="home">
+  <div class="card">
+    <h2>What is Cyberbullying?</h2>
+    <p>
+      Cyberbullying is when someone uses the internet or digital devices to hurt,
+      embarrass, or threaten another person.
+    </p>
+  </div>
+
+  <div class="card">
+    <h2>What should you do if you are bullied online?</h2>
+    <p>
+      If you are bullied online, do not reply to the bully because it can only make things worse. 
+      Instead, you can block and report the person and save screenshots as evidence. 
+      It is also important to tell a trusted adult or parent so they can help you handle the situation safely.
+    </p>
+  </div>
+</section>
+
+<section id="tips">
+  <div class="card">
+    <h2>Why should kindness matter on the internet?</h2>
+    <ul>
+      <li>Kindness matters on the internet because real people are behind those screens, and hurtful words can affect their feelings and mental health.</li>
+      <li>Being kind helps to create a safe and positive online environment where everyone can feel respected and supported.</li>
+    </ul>
+  </div>
+</section>
+
+<section id="whys">
+  <div class="card">
+    <h2>5 Whys Analysis (Cyberbullying)</h2>
+
+    <div class="why-box">
+      <strong>Why 1:</strong> Why does cyberbullying happen?<br>
+      <em>Answer:</em> Because some people want to hurt or control others online.<br>
+      <strong>Solution:</strong> Promote kindness and awareness online.
+    </div>
+
+    <div class="why-box">
+      <strong>Why 2:</strong> Why do people want to hurt others online?<br>
+      <em>Answer:</em> They may feel insecure, angry, or want attention.<br>
+      <strong>Solution:</strong> Teach emotional control and empathy.
+    </div>
+
+    <div class="why-box">
+      <strong>Why 3:</strong> Why do they act differently online?<br>
+      <em>Answer:</em> They feel anonymous and think there are no consequences.<br>
+      <strong>Solution:</strong> Enforce stricter online rules and accountability.
+    </div>
+
+    <div class="why-box">
+      <strong>Why 4:</strong> Why are consequences not always clear?<br>
+      <em>Answer:</em> Not all platforms or schools respond quickly or properly.<br>
+      <strong>Solution:</strong> Improve reporting systems and responses.
+    </div>
+
+    <div class="why-box">
+      <strong>Why 5:</strong> Why don’t victims always report it?<br>
+      <em>Answer:</em> They may feel scared, ashamed, or unsupported.<br>
+      <strong>Solution:</strong> Create safe spaces and encourage speaking up.
+    </div>
+  </div>
+</section>
+
+<section id="importance">
+  <div class="card">
+    <h2>Why should we take cyberbullying seriously?</h2>
+    <p>
+      We should take cyberbullying seriously because it can deeply affect a person’s mental health, 
+      causing stress and anxiety. It can also impact their confidence and school performance, 
+      so it’s important to stop it early and support those affected.
+    </p>
+  </div>
+</section>
+
+<footer>
+  <p>Cyberbullying Awareness | Group 3</p>
+</footer>
+
+</body>
+</html>
